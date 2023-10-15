@@ -20,7 +20,7 @@ function App() {
         
           <Routes>
       
-            <Route path="https://Sajeeshp94.github.io/react-digital-portfolio" element={<Home />}/>
+            <Route path="/react-digital-portfolio" element={<Home />}/>
             <Route path="/about" element={<About/>}/>
             <Route path="/projects" element={<Projects/>}/>
               
