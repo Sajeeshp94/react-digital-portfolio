@@ -10,7 +10,7 @@ function Home() {
         <Card>
         <Card.Img variant="top" src="https://t4.ftcdn.net/jpg/03/08/69/75/360_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg"  />
         <Card.Text ><h2>Hi, I'm Sajeesh</h2>
-        <h6>A Full Stack Developer</h6>
+        <h6><b>A Full Stack Developer</b></h6>
         </Card.Text>
         </Card>
         </Col>
